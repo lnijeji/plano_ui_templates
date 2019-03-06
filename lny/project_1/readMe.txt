@@ -1,0 +1,2 @@
+Practical exercise: step by step creation of a website
+Link: https://openclassrooms.com/en/courses/2479876-build-your-website-with-html5-and-css3/2492444-practical-exercise-step-by-step-creation-of-a-website
